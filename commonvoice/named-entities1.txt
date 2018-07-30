@@ -31,21 +31,21 @@ Agraw aɣelnaw amagday.
 Agraw aɣelnaw amsegdudan.
 Agraw asirem n lezzayer.
 Agraw azzayri.
-Agraw i yidles d tugdut.
-Agraw i zzayer.
+Agraw I yidles d tugdut.
+Agraw I zzayer.
 Agraw n yidles d tugdut.
 Akabar aɣelnaw azzayri.
-Akabar aɣelnaw i twizi d tneflit.
+Akabar aɣelnaw I twizi d tneflit.
 Akabar aɣelnaw ilelli.
 Akabar amsegdudan amesfara.
 Akabar anemlay n yixeddamen.
-Akabar azzayri azegzaw i tneflit.
-Akabar azzayri i tlelli d tugdut.
+Akabar azzayri azegzaw I tneflit.
+Akabar azzayri I tlelli d tugdut.
 Akabar n tafrara tamaynut.
 Akabar n tdukli taɣelnawt d tneflit.
 Akabar n teɣdemt d tseɣrut.
 Akabar n ternawt taɣelnawt.
-Akabar n tirni n uslelli  aɣelnaw.
+Akabar n tirni n uslelli aɣelnaw.
 Akabar n tlelli d teɣdemt.
 Akabar n ubrid n tidet.
 Akabar n ugemmir.
@@ -53,23 +53,23 @@ Akabar n usmaynu azzayri.
 Akabar n usmaynu d tneflit.
 Akabar n yilemẓiyen.
 Akabar n yilemẓiyen imagdayen.
-Akabar n yimekdiyen i uɣlan.
+Akabar n yimekdiyen I uɣlan.
 Akabar n yixeddamen.
 Akabar nnur azzayri.
 Aman grur.
 Amnir n tlelliyin.
 Amussu adelsan amaziɣ.
-Amussu aɣelnaw i ugama d tneflit.
+Amussu aɣelnaw I ugama d tneflit.
 Amussu aɣelnaw n usirem.
-Amussu aɣelnaw n yixeddamen izzayriyen .
+Amussu aɣelnaw n yixeddamen izzayriyen.
 Amussu aɣerfan azzayri.
 Amussu amagday imetti.
 Amussu el infitaḥ.
 Amussu el iṣlaḥ.
-Amussu i yilemẓiyen d tugdut.
-Amussu n tmetti i talwit.
+Amussu I yilemẓiyen d tugdut.
+Amussu n tmetti I talwit.
 Amussu n tnekra.
-Amussu n ufraniman aqbayli .
+Amussu n ufraniman aqbayli.
 Amussu n umtawa aɣelnaw.
 Amussu n unerẓem.
 Amussu n uṣeggem aɣelnaw.
@@ -77,7 +77,7 @@ Amussu n uskay aɣelnaw.
 Amussu n yiɣelnaẓriyen ilelliyen.
 Amussu n yiɣermanen ilelliyen.
 Amussu nnahḍa.
-Anabaḍ aqbayli uɛḍil .
+Anabaḍ aqbayli uɛḍil.
 Anammas asertan.
 Anegmam aɣelnaw n umesten d yibeddi mgal unufen yerzan tiknussniwin n yisallen d teywalt.
 Anegmam unnig imunen n waḍaf n tefranin.
@@ -110,7 +110,6 @@ Iburaḥlaten.
 Ibuṛasen.
 Ibuγerdanen.
 Icaḍbiwen.
-Icaḍbiwen.
 Iciḥawen.
 Ifudiyen.
 Igellaten.
@@ -124,7 +123,7 @@ Izuyad.
 Iγil n wumuren.
 Iγil umencar.
 Iεelwacen.
-lbacir usliman n aɛmeṛ uṣaɛid ubelqas.
+Lbacir usliman n aɛmeṛ uṣaɛid ubelqas.
 Lbanka n lezzayer.
 Lǧuheṛ uqenjuṛ.
 Meẓian usalem.
@@ -132,23 +131,22 @@ Mmeqṛan uzaɣaṛ.
 Muḥend waɛmeṛ ussaɛid.
 Mεella.
 Remḍan umḥend.
-Tadukli i tugdut d tlelliyin.
-Tadukli i ubeddel d ufara.
-Tadukli i ugraw aɣelnaw.
+Tadukli I tugdut d tlelliyin.
+Tadukli I ubeddel d ufara.
+Tadukli I ugraw aɣelnaw.
 Tadukli n yiɣallen imagdayen imettiyen.
-Tadukli taɣelnawt i tneflit.
+Tadukli taɣelnawt I tneflit.
 Tadukli taɣelnawt tamsegdudant.
 Taɣdemt tunnigt.
 Takadimit taɣelnawt n tutlayt taɛrabt.
 Takadimit taɣelnawt n tutlayt tmaziɣt.
 Tamarit tamatut n tenbaḍt.
-Tamlellit i ubeddel.
+Tamlellit I ubeddel.
 Tanmehla tamatut n teɣlist taɣelnawt.
 Tanmehla tamatut n twuri tazayezt.
 Tanmehla tamatut n umesten aɣarim.
 Tas n aɛli tawaqqurt.
 Tasa muḥ usliman.
-Tasaa muḥ usliman.
 Tasaa n aɛli tawaqqurt.
 Tasdawit akli muḥ€nd ulḥaǧ.
 Tasdawit ɛeb erreḥman mira.
@@ -165,21 +163,21 @@ Tirni n tmuɣnest taɣelnawt.
 Tirni n ubeddel.
 Tirni n udabu iṣeggmen.
 Tirni n yiɣallen inemlayen.
-Tirni n yilemẓiyen imagdayen i tɣermi.
+Tirni n yilemẓiyen imagdayen I tɣermi.
 Tirni n yimal.
 Tirni n yizzayriyen imagdayen.
 Tirni n zzayer tamaynut.
-Tirni taɣelnawt i teɣdemt timettit.
-Tirni taɣelnawt i tidet d tlelliyin.
-Tirni taɣelnawt i tlelliyin.
-Tirni taɣelnawt n yimunan i umsasa.
+Tirni taɣelnawt I teɣdemt timettit.
+Tirni taɣelnawt I tidet d tlelliyin.
+Tirni taɣelnawt I tlelliyin.
+Tirni taɣelnawt n yimunan I umsasa.
 Tirni taɣelnawt tamagdayt.
 Tirni taɣelnawt tazzayrit.
 Tirni tamagdayt tilellit.
-Tirni tazzayrit i tneflit d tlelli d teɣdemt.
+Tirni tazzayrit I tneflit d tlelli d teɣdemt.
 Tirni tineslemt n usellek.
 Zebbuǧa.
-Ɛin ԑatman.
+Ԑin ԑatman.
 Adɣa lḥenni.
 Aɛerquv.
 Aɣanim n at aɛli.
@@ -190,12 +188,12 @@ Agwni bbeɣmuṛ.
 Agwni tmim.
 Ahajṛaṛaḍ.
 Ajgagal.
-alma.
+Alma.
 Alma ileɣman.
 Amalu.
 Amejjuḍ.
 Amzawru.
-anu.
+Anu.
 Aqwiṛ.
 Asif.
 At meẓyan.
@@ -206,12 +204,12 @@ Buḍahaṛ.
 Buṭufen.
 Ɛin Meziab.
 Iɛecciwen/Tagrarajt.
-iftisen.
+Iftisen.
 Iɣil bbaɛli.
 Iɣil ixaṛban.
 Iɣil n teslatin.
 Iɣil uberwaq.
-igran.
+Igran.
 Ihevriyen.
 Imedkawen.
 Imezdaten.
@@ -253,8 +251,8 @@ Taṣaḍuṛt.
 Tazallamt.
 Tazeqqa n iɛeddamen.
 Tiɣilt uḥemza.
-Timegres.
-Tinqicin. 
+Timegres. 
+Tinqicin.
 Tinzer.
 Tiqirrucin.
 Tiselnin.
@@ -268,7 +266,7 @@ Tizemmurin iceṭṭiḍen.
 Tuḍeft.
 Umlil.
 Vulayven.
-Vuzexri .
+Vuzexri.
 Zaṛqun.
 Tamda muceṛcuṛ.
 Tamda n tfilellas.
